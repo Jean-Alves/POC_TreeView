@@ -1,0 +1,1 @@
+enum FilterType { energy, alert }
